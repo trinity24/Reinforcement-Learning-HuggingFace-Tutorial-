@@ -1,0 +1,10 @@
+gymnasium
+pygame
+numpy
+
+huggingface_hub
+pyyaml
+imageio
+imageio_ffmpeg
+pyglet
+tqdm
